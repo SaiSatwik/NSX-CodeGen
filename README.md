@@ -1,7 +1,3 @@
-
-
-# NSX-CodeGen
-
 # NSX ConfigGen
 
 ## 1. Introduction
